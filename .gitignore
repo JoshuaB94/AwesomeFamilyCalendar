@@ -125,3 +125,11 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# PWA files
+**/awesomefamilycalendar/public/sw.js
+**/awesomefamilycalendar/public/workbox-*.js
+**/awesomefamilycalendar/public/worker-*.js
+**/awesomefamilycalendar/public/sw.js.map
+**/awesomefamilycalendar/public/workbox-*.js.map
+**/awesomefamilycalendar/public/worker-*.js.map
