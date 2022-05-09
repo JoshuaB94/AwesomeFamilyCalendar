@@ -133,3 +133,4 @@ dist
 **/awesomefamilycalendar/public/sw.js.map
 **/awesomefamilycalendar/public/workbox-*.js.map
 **/awesomefamilycalendar/public/worker-*.js.map
+.DS_Store
