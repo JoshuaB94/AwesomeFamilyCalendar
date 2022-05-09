@@ -1,0 +1,6 @@
+{
+	"appId": "io.awesomefamilycalendar.app",
+	"appName": "awesomefamilycalendar",
+	"webDir": "public",
+	"bundledWebRuntime": false
+}
